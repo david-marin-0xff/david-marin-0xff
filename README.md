@@ -18,4 +18,4 @@
 
 ## Currently Exploring
 
-[![Learning](https://skillicons.dev/icons?i=docker,nodejs,cpp,unreal,cloudflare,go,linux,swift,emacs)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=docker,nodejs,cpp,unreal,cloudflare,go,linux,swift,emacs,rust)](https://skillicons.dev)
