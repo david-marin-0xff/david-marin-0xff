@@ -12,10 +12,10 @@
 
 ## Skills
 
-[![Development Skills](https://skillicons.dev/icons?i=html,css,js,ts,python,cs,git,vscode,bash,powershell,php)](https://skillicons.dev)
+[![Development Skills](https://skillicons.dev/icons?i=html,css,js,ts,python,cs,git,vscode,bash,powershell,php,dotnet)](https://skillicons.dev)
 
 
 
 ## Currently Exploring
 
-[![Learning](https://skillicons.dev/icons?i=docker,nodejs,cpp,c,cloudflare,go,linux,swift,emacs,laravel,rust)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=docker,nodejs,cpp,c,cloudflare,go,linux,swift,emacs,laravel,rust,ruby)](https://skillicons.dev)
